@@ -1,0 +1,31 @@
+_repo: Index-of-the-Project-Gutenberg-Works-of-Lucius-Annaeus-Seneca_59025
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Seneca, Lucius Annaeus
+    aliases:
+    - Seneca, Annaeus
+    - Seneca, L. A. (Lucius Annaeus)
+    - Annaeus Seneca, Lucius
+    deathdate: 65
+    gutenberg_agent_id: '1308'
+    url: http://www.gutenberg.org/2009/agents/1308
+    wikipedia: http://en.wikipedia.org/wiki/Seneca_the_Younger
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2019-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Index of the Project Gutenberg Works of Lucius Annaeus Seneca
+url: http://www.gutenberg.org/ebooks/59025
